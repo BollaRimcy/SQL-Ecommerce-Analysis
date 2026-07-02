@@ -1,4 +1,4 @@
-# SQL-Ecommerce-Analysis
+
 # SQL Ecommerce Analysis
 
 ## Objective
